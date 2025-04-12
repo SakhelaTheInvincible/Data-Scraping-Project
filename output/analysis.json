@@ -1,0 +1,41 @@
+{
+    "total_books": 69,
+    "categories": [
+        {
+            "name": "Travel",
+            "book_count": 11,
+            "average_price": 39.79,
+            "rating_distribution": {
+                "1": 2,
+                "2": 3,
+                "3": 3,
+                "4": 2,
+                "5": 1
+            }
+        },
+        {
+            "name": "Mystery",
+            "book_count": 32,
+            "average_price": 31.72,
+            "rating_distribution": {
+                "1": 7,
+                "2": 5,
+                "3": 8,
+                "4": 7,
+                "5": 5
+            }
+        },
+        {
+            "name": "Historical Fiction",
+            "book_count": 26,
+            "average_price": 33.64,
+            "rating_distribution": {
+                "1": 5,
+                "2": 4,
+                "3": 5,
+                "4": 4,
+                "5": 8
+            }
+        }
+    ]
+}
