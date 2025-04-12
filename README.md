@@ -24,8 +24,8 @@ A Python web scraping project that extracts book data from [books.toscrape.com](
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/book-scraper.git
-   cd book-scraper
+   git clone https://github.com/SakhelaTheInvincible/Data-Scraping-Project.git
+   cd Data-Scraping-Project
    ```
    
 2. Activate environment and install required packages:
